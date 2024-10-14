@@ -1,5 +1,5 @@
-# praktek-nextjs
+Praktek Filter Data 
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
-
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+Nama: Umi Hanik
+NIM: 22104410021
+Kelas: 5 A
