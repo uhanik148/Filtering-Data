@@ -59,7 +59,7 @@ function getDataByAge(age) {
 	return data.filter((person) => person.age >= age);
 }
 
-// Contoh penggunaan ^_^
+// Penggunaan ^_^
 console.log("All data:", JSON.stringify(getAllData(), null, 2));
 console.log("Data by name 'John Doe':", JSON.stringify(getDataByName('John Doe'), null, 2));
 console.log("Data by city 'New York':", JSON.stringify(getDataByCity('New York'), null, 2));
